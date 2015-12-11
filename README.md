@@ -16,3 +16,6 @@ STICKIED:
   a. List of MIPS microcomputers: https://en.wikipedia.org/wiki/List_of_MIPS_microarchitectures 
   b. Imagination Tech (Owns MIPS) References: https://imgtec.com/mips/architectures/mips32/ 
   c. Example Imgetec uComputer DataSheet: https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/documentation/MD01024-2B-P5600-DTS-01.00.pdf
+3. GCC
+  a. GCC can be used to output Binary or Assebly object code: http://stackoverflow.com/questions/1289881/using-gcc-to-produce-readable-assembly 
+
