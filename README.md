@@ -26,3 +26,7 @@ STICKIED:
   b. GCC supports compilation of C to MIPS Object Code: https://gcc.gnu.org/onlinedocs/gcc/MIPS-Options.html
   c. Small primer on GCC, then shows redhats improvments to GCC: https://www.redhat.com/magazine/002dec04/features/gcc/ 
 
+
+###Piplining example:
+(/Jam-G/MIPS): https://github.com/Jam-G/MIPS
+[building own 16 bit microcomputer](https://archive.org/stream/tibook_how-to-build-your-own-working-16-bit-microcomputer/how-to-build-your-own-working-16-bit-microcomputer#page/n7/mode/2up)
