@@ -29,4 +29,5 @@ STICKIED:
 
 ###Piplining example:
 (/Jam-G/MIPS): https://github.com/Jam-G/MIPS
+
 [building own 16 bit microcomputer](https://archive.org/stream/tibook_how-to-build-your-own-working-16-bit-microcomputer/how-to-build-your-own-working-16-bit-microcomputer#page/n7/mode/2up)
