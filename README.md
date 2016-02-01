@@ -6,6 +6,7 @@ STICKIED:
   - http://www.edaboard.com/forum.php
   - http://opencores.org/project,plasma
   - http://opencores.org/project,ion
+  - https://reference.digilentinc.com/_media/nexys4-ddr:nexys4ddr_rm.pdf
 
 1. Porting Linux
   a. A guide doing similar to what we want to do, but with different hardware:    http://www.tldp.org/LDP/cpg/Custom-Porting-Guide.pdf 
@@ -25,6 +26,9 @@ STICKIED:
   a. GCC can be used to output Binary or Assebly object code: http://stackoverflow.com/questions/1289881/using-gcc-to-produce-readable-assembly 
   b. GCC supports compilation of C to MIPS Object Code: https://gcc.gnu.org/onlinedocs/gcc/MIPS-Options.html
   c. Small primer on GCC, then shows redhats improvments to GCC: https://www.redhat.com/magazine/002dec04/features/gcc/ 
+4. BCD and 7 Seg Decoder
+  a. Verilog exmaple code: http://www.delorie.com/electronics/bin2seven/
+  b. Less good example: http://ece353.ecs.umass.edu/verilog/verilog_files/seg7.v 
 
 
 ###Piplining example:
