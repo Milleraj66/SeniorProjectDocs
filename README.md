@@ -15,6 +15,7 @@ STICKIED:
     - This appears to be the real deal, has alot of info check out the guide
   c. Good answers on how to port Linux, list of neccessary things to do: http://unix.stackexchange.com/questions/56550/running-the-linux-kernel-and-ubuntu-on-custom-processor
   d. Bootloader? : http://www.linux-mips.org/wiki/U-Boot 
+  e. 
 2. MIPS
   a. List of MIPS microcomputers: https://en.wikipedia.org/wiki/List_of_MIPS_microarchitectures 
   b. Imagination Tech (Owns MIPS) References: https://imgtec.com/mips/architectures/mips32/ 
@@ -22,6 +23,7 @@ STICKIED:
   d. Trap unimplmented opcodes, this shows a method but isn't great: http://archive.6502.org/publications/dr_dobbs_journal_selected_articles/trap_vector_for_unimplemented_opcodes.pdf 
   e. Complete 32 bit MIPS uCPU (VHDL): http://opencores.org/project,plasma 
   f. Work in progress 32b MIPS CPU: http://opencores.org/project,ion
+  g. Basic MIPS ISA: http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html 
 3. GCC
   a. GCC can be used to output Binary or Assebly object code: http://stackoverflow.com/questions/1289881/using-gcc-to-produce-readable-assembly 
   b. GCC supports compilation of C to MIPS Object Code: https://gcc.gnu.org/onlinedocs/gcc/MIPS-Options.html
@@ -29,6 +31,9 @@ STICKIED:
 4. BCD and 7 Seg Decoder
   a. Verilog exmaple code: http://www.delorie.com/electronics/bin2seven/
   b. Less good example: http://ece353.ecs.umass.edu/verilog/verilog_files/seg7.v 
+5. FPGA Development
+  a. Xilinx FPGA vs. ASIC: http://www.xilinx.com/support/documentation/white_papers/wp213.pdf , http://www.xilinx.com/fpga/asic.htm 
+  b. Thourough CPU in VHDL: http://www.cl.cam.ac.uk/teaching/1011/SysOnChip/socdam-notes1011.pdf 
 
 
 ###Piplining example:
